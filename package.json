@@ -1,7 +1,7 @@
 {
-  "name": "bbb",
+  "name": "bbb-cron",
   "version": "1.0.0",
-  "description": "Bio Baum Bauer Webapp",
+  "description": "BBB Cron Job",
   "type": "module",
   "workspaces": [
     "app/packages/*"
